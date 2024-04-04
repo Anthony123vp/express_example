@@ -74,6 +74,6 @@ app.get('/productos', (req, res) => {
 });
 
 // Iniciar el servidor en el puerto 9000
-app.listen(9000, () => {
-  console.log('Servidor Express iniciado en el puerto 9000');
+app.listen(12500, () => {
+  console.log('Servidor Express iniciado en el puerto 12500');
 });
